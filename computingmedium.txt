@@ -1,0 +1,15 @@
+1,An integer that can be a either a negative or positive number
+2,An integer that is converted into binary
+3,An integer that can be processed by the CPU
+1,A number that has no fixed value
+2,A number that has a decimal point
+3,A number that has had an operation carried out on it in the ALU
+1,ipv6 uses six binary numbers but ipv4 only uses four
+2,ipv6 addresses are 128-bit and ipv4 addresses are 32-bit
+3,ipv6 can do binary calculations faster than ipv4
+1,1010
+2,1011
+3,0010
+1,0100
+2,0011
+3,0111

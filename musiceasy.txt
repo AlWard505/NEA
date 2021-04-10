@@ -1,0 +1,10 @@
+1,A descending bass line
+2,bass line which is repeated throughout a piece
+1,AB
+2,ABA
+1,Exposition, break, development
+2,Exposition, development, recapitulation
+1,Baroque
+2,Classical
+1,Last movement
+2,First movement

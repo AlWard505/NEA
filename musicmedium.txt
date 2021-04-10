@@ -1,0 +1,15 @@
+1,A descending bass line
+2,A bass line which is repeated throughout a piece
+3,A high bass line
+1,AB
+2,ABA
+3,ABC
+1,Exposition, break, development
+2,Exposition, development, recapitulation
+3,Exposition, gat, outro
+1,Baroque
+2,Classical
+3,Romantic
+1,Last movement
+2,First movement
+3,Slow movement

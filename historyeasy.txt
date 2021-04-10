@@ -1,0 +1,10 @@
+1,A Saxon castle
+2,A Saxon fortified town
+1,Dig a very deep ditch around the town
+2,Build a motte inside the town
+1,It could be built quickly
+2,It would last for centuries
+1,Durham
+2,London
+1,The lord could live inside the protected keep in safety and luxury
+2,The Norman soldiers could be camouflaged by the grey stone

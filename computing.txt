@@ -1,0 +1,5 @@
+1,What is a signed integer?
+2,What is a floating point number?
+3,Why does ipv6 allow more IP addresses than ipv4?
+4,What is -6 in binary converted using two's complement?
+5,What is three in binary converted using two's complement?
